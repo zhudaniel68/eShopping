@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 viewBox="0 0 1140 360" enable-background="new 0 0 1140 360">
+	<g>
+		<defs>
+			<linearGradient id="MyGradient">
+				<stop offset="5%" stop-color="#F60" />
+				<stop offset="95%" stop-color="#FF6" />
+			</linearGradient>
+		</defs>
+
+		<!-- Outline the drawing area in blue -->
+		<rect fill="none" stroke="blue"
+			  x="0" y="0" width="1140" height="360"/>
+
+		<!-- The rectangle is filled using a linear gradient paint server -->
+		<rect fill="url(#MyGradient)" stroke="blue" stroke-width="0.5"
+			  x="0" y="0" width="1140" height="360"/>
+	</g>
+	
+	<desc>
+		Example tspan02 - using tspan's dx and dy attributes
+		for incremental positioning adjustments
+	</desc>
+
+	<g font-family="宋体" font-size="55" >
+		<text x="280" y="200" fill="blue" >
+			我
+			<tspan dx="2em" dy="-50" font-weight="bold" fill="red" >
+				用心
+			</tspan>
+			<tspan dy="100">
+				你放心
+			</tspan>
+		</text>
+	</g>
+
+	<desc>加盈图标1 - 'use' on a 'symbol'</desc>
+	<defs>
+		<symbol id="MySymbol" viewBox="0 0 50 50">
+			<desc>MySymbol - four rectangles in a grid</desc>
+			<rect x="1" y="1" width="20" height="20" fill="rgb(248,98,98)"/>
+			<rect x="22" y="1" width="20" height="20" fill="rgb(188,98,248)"/>
+			<rect x="1" y="22" width="20" height="20" fill="rgb(188,188,8)"/>
+			<rect x="22" y="22" width="20" height="20" fill="rgb(218,88,88)"/>
+		</symbol>
+	</defs>
+	<!--rect x=".1" y=".1" width="99.8" height="29.8"
+		  fill="none" stroke="blue" stroke-width=".2" /-->
+	<use x="38" y="18" width="80" height="80"
+		 xlink:href="#MySymbol" />
+	
+</svg>

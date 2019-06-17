@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1140 360" enable-background="new 0 0 1140 360">
+	<path fill="#1D4380" d="M0 0h1140v360h-1140v-360z"/>
+	<defs>
+		<path id="MyPath"
+			  d="M 100 200 
+             C 200 100 300   0 400 100
+             C 500 200 600 300 700 200
+             C 800 100 900 100 900 100" />
+	</defs>
+	
+	<desc>Two Circles Drawing</desc>
+	<path d="M500,200 h-150 a150,150 0 1,0 150,-150 z"
+        fill="orange" stroke="blue" stroke-width="5" />
+	
+  <path d="M475,175 v-150 a150,150 0 0,0 -150,150 z"
+        fill="olive" stroke="blue" stroke-width="5" />
+	
+	<desc>Zig Up Drawing</desc>
+	<path d="M700,350 l 50,-25 
+           a25,25 -30 0,1 50,-25 l 50,-25 
+           a25,50 -30 0,1 50,-25 l 50,-25 
+           a25,75 -30 0,1 50,-25 l 50,-25 
+           a25,100 -30 0,1 50,-25 l 50,-25"
+        fill="none" stroke="lightsalmon" stroke-width="5"  />
+	
+   <desc>Example toap01 - simple text on a path</desc>
+	<use xlink:href="#MyPath" fill="none" stroke="sandybrown"  />
+	<text font-family="Verdana" font-size="42.5" fill="mediumpurple" >
+		<textPath xlink:href="#MyPath">
+			感谢各位好友，一路风雨和阳光，始终不离不弃-赞
+		</textPath>
+	</text>
+
+	<desc>加盈图标1 - 'use' on a 'symbol'</desc>
+	<defs>
+		<symbol id="MySymbol" viewBox="0 0 50 50">
+			<desc>MySymbol - four rectangles in a grid</desc>
+			<rect x="1" y="1" width="20" height="20" fill="rgb(248,98,98)"/>
+			<rect x="22" y="1" width="20" height="20" fill="rgb(188,98,248)"/>
+			<rect x="1" y="22" width="20" height="20" fill="rgb(188,188,8)"/>
+			<rect x="22" y="22" width="20" height="20" fill="rgb(218,88,88)"/>
+		</symbol>
+	</defs>
+	<!--rect x=".1" y=".1" width="99.8" height="29.8"
+		  fill="none" stroke="blue" stroke-width=".2" /-->
+	<use x="38" y="18" width="80" height="80"
+		 xlink:href="#MySymbol" />
+	
+</svg>
