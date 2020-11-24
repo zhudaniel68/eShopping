@@ -31,4 +31,10 @@ Wrote to /home/monatheoctocat/my_package/package.json:
   2.3>
 3. install the unscoped package
 #npm install <package_name>
-4. others
+
+4. Nuget package
+  4.1 what is Nuget: For .NET (including .NET Core), the Microsoft-supported mechanism for sharing code is NuGet, which defines how packages for .NET are created, hosted, and consumed, and provides the tools for each of those roles.
+  4.2 Nuget tools:
+  
+  4.3 others
+5. others
