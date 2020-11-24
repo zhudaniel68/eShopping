@@ -37,4 +37,4 @@ Wrote to /home/monatheoctocat/my_package/package.json:
   4.2 Nuget tools:
   
   4.3 others
-5. others
+5. 2020-11-24 upgrade the powershell from v2.0 to v7.1.0 with prerequest packaged wmfv5.1 installed. 
