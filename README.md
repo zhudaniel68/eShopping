@@ -35,7 +35,15 @@ Wrote to /home/monatheoctocat/my_package/package.json:
 4. Nuget package
   4.1 what is Nuget: For .NET (including .NET Core), the Microsoft-supported mechanism for sharing code is NuGet, which defines how packages for .NET are created, hosted, and consumed, and provides the tools for each of those roles.
   4.2 Nuget tools:
-  
-  4.3 others
+ 
 5. 2020-11-24 upgrade the powershell from v2.0 to v7.1.0 with prerequest packaged wmfv5.1 installed. 
 6. 2020-11-27 package manager: Install-Package Newtonsoft.Json -Version 12.0.3
+7. 2020-11-27 pm: install-package bootstrap -version 4.5.3
+8. 2020-11-27 npm: 
+  8.1 npm init to create package.json as bellow:
+  package name: dzapponev2.0
+  version: 2.0.0
+  get repository: https://github.com/zhudaniel68/dzappone
+  license: MIT
+  8.2 npm install bootstrap
+9. others
