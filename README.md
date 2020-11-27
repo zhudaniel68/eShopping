@@ -38,3 +38,4 @@ Wrote to /home/monatheoctocat/my_package/package.json:
   
   4.3 others
 5. 2020-11-24 upgrade the powershell from v2.0 to v7.1.0 with prerequest packaged wmfv5.1 installed. 
+6. 2020-11-27 package manager: Install-Package Newtonsoft.Json -Version 12.0.3
