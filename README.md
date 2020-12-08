@@ -46,4 +46,5 @@ Wrote to /home/monatheoctocat/my_package/package.json:
   get repository: https://github.com/zhudaniel68/dzappone
   license: MIT
   8.2 npm install bootstrap
-9. others
+9. 2020-12-08: npm i popper.js --save 
+10. 
