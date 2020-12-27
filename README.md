@@ -47,4 +47,4 @@ Wrote to /home/monatheoctocat/my_package/package.json:
   license: MIT
   8.2 npm install bootstrap
 9. 2020-12-08: npm i popper.js --save 
-10. 
+10. 2020-12-27: sql server works properly in web server in Entity Framework 
