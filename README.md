@@ -49,3 +49,5 @@ Wrote to /home/monatheoctocat/my_package/package.json:
 9. 2020-12-08: npm i popper.js --save 
 10. 2020-12-27: sql server works properly in web server in Entity Framework 
 11. 2020-12-30: complete the search razor page configuration under MVC frame
+12. 2021-01-01：update the holiday welcome schema
+13. 2021-01-02: start to configure the login page
