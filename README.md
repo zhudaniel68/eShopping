@@ -52,3 +52,4 @@ Wrote to /home/monatheoctocat/my_package/package.json:
 12. 2021-01-01：update the holiday welcome schema
 13. 2021-01-02: start to configure the login page
 14. 2021-01-04： install EFCore related packages in dzAppOneV2.0.24
+15. 2021-01-06： install Bootstrap snippet pack v1.0.14 and Glyphfriend 2017 v2.1.0.2
