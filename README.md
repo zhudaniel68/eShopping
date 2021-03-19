@@ -55,3 +55,5 @@ Wrote to /home/monatheoctocat/my_package/package.json:
 15. 2021-01-06： install Bootstrap snippet pack v1.0.14 and Glyphfriend 2017 v2.1.0.2
 16. 2021-01-06: install Markdown Editor v1.12.253
 17. 2021-02-24: pay attention to setup environment with microsoft.aspnetcore.identity.entityframeworkcore
+18. 2021-03-18: apply EFC on www.dzappone.cn successfully
+19. 
