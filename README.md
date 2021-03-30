@@ -57,3 +57,4 @@ Wrote to /home/monatheoctocat/my_package/package.json:
 17. 2021-02-24: pay attention to setup environment with microsoft.aspnetcore.identity.entityframeworkcore
 18. 2021-03-18: apply EFC on www.dzappone.cn successfully
 19. 2021-03-23： well understand the mechanism of how to submitdata from client side via proper configuration with models/views/controllers
+20. 2021-03-29: Apply Identity in www.dzappone.cn
