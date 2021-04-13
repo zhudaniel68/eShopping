@@ -59,3 +59,4 @@ Wrote to /home/monatheoctocat/my_package/package.json:
 19. 2021-03-23： well understand the mechanism of how to submitdata from client side via proper configuration with models/views/controllers
 20. 2021-03-29: Apply Identity in www.dzappone.cn
 21. 2021-03-31: upgrade dzAppOnev2.0.30 to v2.0.31, and then setup options.Password.RequireDigit=true, ..etc.
+22. 2021-04-13: apply partial view and PageNavClass in V2.0.44
