@@ -60,4 +60,5 @@ Wrote to /home/monatheoctocat/my_package/package.json:
 20. 2021-03-29: Apply Identity in www.dzappone.cn
 21. 2021-03-31: upgrade dzAppOnev2.0.30 to v2.0.31, and then setup options.Password.RequireDigit=true, ..etc.
 22. 2021-04-13: apply partial view and PageNavClass in V2.0.44
-23. 2021-05-11: apply razor pages in v2.0.88
+23. 2021-04-28: configure the api in v2.0.71
+24. 2021-05-10: Using razor page to simulate the httpclient in task OnGetAsync in v2.0.88
