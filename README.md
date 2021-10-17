@@ -64,3 +64,4 @@ Wrote to /home/monatheoctocat/my_package/package.json:
 24. 2021-05-10: Using razor page to simulate the httpclient in task OnGetAsync in v2.0.88
 25. 2021-08-09: Apply the wx H5Pay function in www.dzappone.cn in v2.2.0 onwards
 26. 2021-09-09: Apply the wx JSAPIPay function in www.dzappone.cn in v2.2.63 onwards
+27. 2021-10-15: Pilot the eShop online shopping in v2.3.22 onwards, incorprating goodsCart/order/payment/logistics functions
