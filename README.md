@@ -68,4 +68,4 @@ Wrote to /home/monatheoctocat/my_package/package.json:
 28. 2021-12-06: Optimize and simplify the codes to improve performace of eshopping relevant functions in v2.4.32 onwards.
 29. 2021-12-16: Secure the system from hacking attack in v2.4.62 onwards.
 30. 2022-01-06: Consolidate the query method after successful pilot with Notes-Query module in v2.4.87 onwards.
-31. 2022-08-10: Completion of upgrading db tables' primary key attribution and corresponding methods of creating new key
+31. 2022-08-10: Completion of upgrading db tables' primary key attribution and corresponding methods of creating new key to enhance a secure system
